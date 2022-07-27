@@ -1,7 +1,7 @@
 ```sh-session
 Cromosome Dropper
 #################
-**How to use?**
+  How to use?
 #################
 1. Open the Dropper Class
 2. Convert your direct download link to Binary (https://www.rapidtables.com/convert/number/ascii-to-binary.html)
