@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CromosomeDropper", "CromosomeDropper\CromosomeDropper.csproj", "{B23E4215-41D7-4D85-84FB-74F05D5A8DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23E4215-41D7-4D85-84FB-74F05D5A8DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23E4215-41D7-4D85-84FB-74F05D5A8DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23E4215-41D7-4D85-84FB-74F05D5A8DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23E4215-41D7-4D85-84FB-74F05D5A8DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C46ABCB-5C33-4FDA-9D5B-E56B80372211}
+	EndGlobalSection
+EndGlobal
