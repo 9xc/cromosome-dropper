@@ -8,6 +8,7 @@ Cromosome Dropper
 3. Convert the Directory\\Stub.exe to Binary
 4. Compile and use It
 
+Note: Use google translate
 #################
 
 Features
