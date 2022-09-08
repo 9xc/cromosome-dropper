@@ -22,6 +22,7 @@ Drops file in *AppData Temp*
 
 Credits
 qwqdanchun For AntiVM method https://github.com/qwqdanchun
+Deimos For Dropping method https://github.com/DeimosDemise
 
 #################
 
